@@ -40,3 +40,20 @@ Data Visualization represents the text or numerical data in a visual format, whi
 * Testing assumptions using EDA 
 * Visualize potential relationships between variables
 
+## 4. Steps involved:
+ 
+#### Step1: Importing the necessary Libraries
+For the EDA of the given dataset, python libraries like Pandas, Numpy, Matplotlib and Seaborn are used.
+
+#### Step2: Understanding the data
+This dataset has around 48,895 observations in it with 16 columns and it is a mix between categorical and numeric values.
+
+#### Step3: Cleaning the Data
+Our dataset contains a large number of null values which might tend to disturb our accuracy hence we dropped them at the beginning of our project inorder to get a better result.
+
+#### Step4: Removing unnecessary fields
+
+#### Step5: Using functionality provided by pandas library (like group by, merge etc)  to find the relationships between different variables
+
+#### Step6: Visualizing the outcomes using matplotlib and seaborn library
+
