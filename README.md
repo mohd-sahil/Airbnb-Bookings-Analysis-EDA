@@ -42,21 +42,33 @@ Data Visualization represents the text or numerical data in a visual format, whi
 
 ## 4. Steps involved:
  
-#### Step1: Importing the necessary Libraries
+##### Step1: Importing the necessary Libraries
 For the EDA of the given dataset, python libraries like Pandas, Numpy, Matplotlib and Seaborn are used.
 
-#### Step2: Understanding the data
+##### Step2: Understanding the data
 This dataset has around 48,895 observations in it with 16 columns and it is a mix between categorical and numeric values.
 
-#### Step3: Cleaning the Data
+##### Step3: Cleaning the Data
 Our dataset contains a large number of null values which might tend to disturb our accuracy hence we dropped them at the beginning of our project inorder to get a better result.
 
-#### Step4: Removing unnecessary fields (if any)
+##### Step4: Removing unnecessary fields (if any)
 
-#### Step5: Group by & Merge
+##### Step5: Group by & Merge
 Using functionality provided by pandas library (like group by, merge etc)  to find the relationships between different variables
 
-#### Step6: Visualizing the outcomes 
+##### Step6: Visualizing the outcomes 
 using matplotlib and seaborn library
 
 ## 5. Exploring Insights from the data
+
+##### What can we learn about different hosts and areas?
+
+Approximately 85% of the hosts are in Manhattan & Brooklyn whereas
+Staten Is has less than 1% hosts
+
+##### What can we learn from predictions? (ex: locations, prices, reviews, etc)
+ 
+Brooklyn and Manhattan are the most reviewed locations.
+Manhattan is the most expensive location whereas Bronx is the cheapest among all.
+Price v/s Number of Reviews
+
