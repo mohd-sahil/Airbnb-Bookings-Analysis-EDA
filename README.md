@@ -51,9 +51,12 @@ This dataset has around 48,895 observations in it with 16 columns and it is a mi
 #### Step3: Cleaning the Data
 Our dataset contains a large number of null values which might tend to disturb our accuracy hence we dropped them at the beginning of our project inorder to get a better result.
 
-#### Step4: Removing unnecessary fields
+#### Step4: Removing unnecessary fields (if any)
 
-#### Step5: Using functionality provided by pandas library (like group by, merge etc)  to find the relationships between different variables
+#### Step5: Group by & Merge
+Using functionality provided by pandas library (like group by, merge etc)  to find the relationships between different variables
 
-#### Step6: Visualizing the outcomes using matplotlib and seaborn library
+#### Step6: Visualizing the outcomes 
+using matplotlib and seaborn library
 
+## 5. Exploring Insights from the data
