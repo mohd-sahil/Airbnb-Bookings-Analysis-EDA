@@ -80,12 +80,12 @@ Approximately 85% of the hosts are in Manhattan & Brooklyn whereas Staten Is has
 For the top host category, more Airbnb listings are not resulting in more reviews.
 Hosts which have highest listings have average reviews less than the top average reviews in that category
 
-Busiest hosts : (based on top average reviews)
-1- Dona
-2- Jj
-3- Carol
-4- Asa
-5- Wanda
+Busiest hosts : (based on top average reviews) <br> 
+1- Dona <br>
+2- Jj <br>
+3- Carol <br>
+4- Asa <br>
+5- Wanda <br>
 Because these hosts :-
 Are located in the busiest areas (Manhattan, Brooklyn & Queens) 
 Their room type is either Entire home or Private room which is preferred by most people.
