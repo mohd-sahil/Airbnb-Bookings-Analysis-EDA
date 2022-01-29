@@ -63,12 +63,43 @@ using matplotlib and seaborn library
 
 ##### What can we learn about different hosts and areas?
 
-Approximately 85% of the hosts are in Manhattan & Brooklyn whereas
-Staten Is has less than 1% hosts
+Approximately 85% of the hosts are in Manhattan & Brooklyn whereas Staten Is has less than 1% hosts
 
 ##### What can we learn from predictions? (ex: locations, prices, reviews, etc)
  
-Brooklyn and Manhattan are the most reviewed locations.
-Manhattan is the most expensive location whereas Bronx is the cheapest among all.
-Price v/s Number of Reviews
+* Brooklyn and Manhattan are the most reviewed locations.
+* Manhattan is the most expensive location whereas Bronx is the cheapest among all.
+* Price v/s Number of Reviews
 
+##### Which hosts are the busiest and why?
+For the top host category, more Airbnb listings are not resulting in more reviews.
+Hosts which have highest listings have average reviews less than the top average reviews in that category
+
+Busiest hosts : (based on top average reviews)
+1- Dona
+2- Jj
+3- Carol
+4- Asa
+5- Wanda
+Because these hosts :-
+Are located in the busiest areas (Manhattan, Brooklyn & Queens) 
+Their room type is either Entire home or Private room which is preferred by most people.
+Prices are less than 100 (except for one)
+
+##### Is there any noticeable difference of traffic among different areas and what could be the reason for it?
+* Brooklyn & Manhattan share approximately 82% of the traffic whereas Staten Is & Bronx are the least popular among the Guests
+* Majority of the Hosts are located in Manhattan & Brooklyn, that's why these areas have the highest traffic
+* Areas having maximum traffic have more number of Private rooms and Entire home/apartment than their counterparts
+
+## Conclusion:
+
+* Number of Hosts available in a location affects the traffic - Areas where number of hosts are more have higher reviews or vice-versa
+* Majority of Guests prefer to pay a lesser price.
+* Types of Room offered affects the traffic (shared room type is the least popular among guests, whereas Private Room is preferred by more than half of the total Guests)
+* Areas where the availability of private rooms and entire home/ apartment are maximum, the traffic is more.
+* For the top host category, more Airbnb listings are not resulting in more reviews.
+ 
+### References-
+* Medium
+* Towards Data Science
+* Analytics Vidhya
