@@ -72,15 +72,24 @@ using matplotlib and seaborn library
 
 Approximately 85% of the hosts are in Manhattan & Brooklyn whereas Staten Is has less than 1% hosts
 
+<img src = "Images/host density.png" width = "400">
+
 ##### What can we learn from predictions? (ex: locations, prices, reviews, etc)
  
 * Brooklyn and Manhattan are the most reviewed locations.
+<img src = "Images/most rvwd - locations.png" width = "700">
+  
 * Manhattan is the most expensive location whereas Bronx is the cheapest among all.
+<img src = "Images/expensive locations.png" width = "500">
+
 * Price v/s Number of Reviews
+<img src = "Images/prices vs revws.png" width = "500">
 
 ##### Which hosts are the busiest and why?
 For the top host category, more Airbnb listings are not resulting in more reviews.
 Hosts which have highest listings have average reviews less than the top average reviews in that category
+
+<img src = "Images/busiest hosts.png" width = "1000">
 
 Busiest hosts : (based on top average reviews) <br> 
 1- Dona <br>
@@ -95,8 +104,13 @@ Prices are less than 100 (except for one)
 
 ##### Is there any noticeable difference of traffic among different areas and what could be the reason for it?
 * Brooklyn & Manhattan share approximately 82% of the traffic whereas Staten Is & Bronx are the least popular among the Guests
+<img src = "Images/traffic - pie chart.png" width = "400">
+
 * Majority of the Hosts are located in Manhattan & Brooklyn, that's why these areas have the highest traffic
+<img src = "Images/host density.png" width = "400">
+
 * Areas having maximum traffic have more number of Private rooms and Entire home/apartment than their counterparts
+<img src = "Images/areas - types of room.png" width = "800">
 
 ## Conclusion:
 
